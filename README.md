@@ -6,3 +6,6 @@ MySQL Workbench
 mysql connector to Java, needed
 Frameworks: iReport and rs2xml
 
+All materials needed:
+https://www.aulaead.com/courses/take/curso-gratis-java-com-banco-de-dados-gratis/downloads/5926934-download-icones-bibliotecas-e-ferramentas
+
