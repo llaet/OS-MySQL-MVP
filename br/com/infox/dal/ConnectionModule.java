@@ -23,9 +23,9 @@ public class ConnectionModule {
         //import the database driver
         String driver = "com.mysql.jdbc.Driver";
         //store database infos
-        String url = "jdbc:mysql://localhost:3306/dbInfoX";
-        String user = "root";
-        String password = "12345";
+        String url = "jdbc:mysql://localhost:yourLocalHostPort/yourDatabaseName";
+        String user = "yourUser";
+        String password = "yourPassword";
         //database connection establishment
         try {
             Class.forName(driver);
